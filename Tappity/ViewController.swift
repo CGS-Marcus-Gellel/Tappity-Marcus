@@ -3,7 +3,7 @@
 //  Tappity
 //
 //  Created by nullUser on 29/5/17.
-//  Copyright © 2017 Roan Atkinson. All rights reserved.
+//  Copyright © 2017 Someone Else. All rights reserved.
 //
 
 import UIKit
